@@ -19,6 +19,7 @@ A event budget tracking platform for college events, featuring Google OAuth auth
 
 ## Setup Instructions
 
+### 1. Clone the repo
 
 ### 2. Environment Variables
 - Create a `.env` file in `backend/` with:
